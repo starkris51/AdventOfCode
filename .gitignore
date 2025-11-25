@@ -1,0 +1,14 @@
+*.dll
+*.pdb
+*.xml
+*.exe
+*.exe.config
+cookie.txt
+*config.json
+*.dat
+__pycache__/
+.vscode/
+token
+Input/
+Inputs/
+Examples/
